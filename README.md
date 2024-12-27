@@ -17,7 +17,7 @@ A secure, web-based message encryption and decryption application built with Str
 
 ## 🚀 Live Demo
 
-Visit the live application at: [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+Visit the live application at: [https://encryption-decryption-app-ceuash8hqsmtpmc7nndjmy.streamlit.app/](https://encryption-decryption-app-ceuash8hqsmtpmc7nndjmy.streamlit.app/)
 
 ## 💻 Local Development
 
@@ -30,8 +30,8 @@ Visit the live application at: [https://your-app-url.streamlit.app](https://your
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cryptic-messenger-streamlit.git
-cd cryptic-messenger-streamlit
+git clone https://github.com/Manish-Kumar24/Encryption-Decryption-App.git
+cd Encryption-Decryption-App
 ```
 
 2. Create a virtual environment (optional but recommended)
@@ -53,23 +53,12 @@ streamlit run app.py
 
 The application will open in your default web browser at `http://localhost:8501`.
 
-## 🌐 Deployment
+## 🌐 Live Application
 
-### Deploy to Streamlit Cloud
+This application is deployed and accessible at:
+[https://encryption-decryption-app-ceuash8hqsmtpmc7nndjmy.streamlit.app/](https://encryption-decryption-app-ceuash8hqsmtpmc7nndjmy.streamlit.app/)
 
-1. Fork this repository to your GitHub account
-
-2. Visit [share.streamlit.io](https://share.streamlit.io)
-
-3. Sign in with GitHub
-
-4. Click "New app"
-
-5. Select this repository, branch (main), and app.py file
-
-6. Click "Deploy"
-
-Your app will be live at `https://your-app-name.streamlit.app`
+Feel free to visit the link above to use the CrypticMessenger encryption tool!
 
 ## 🔒 Security Notes
 
@@ -89,7 +78,7 @@ Your app will be live at `https://your-app-name.streamlit.app`
 ### File Structure
 
 ```
-cryptic-messenger-streamlit/
+Encryption-Decryption-App/
 │
 ├── app.py              # Main application file
 ├── requirements.txt    # Project dependencies
@@ -136,6 +125,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [manishkumar202209@gmail.com](manishkumar202209@gmail.com)
 
-Project Link: [https://github.com/yourusername/cryptic-messenger-streamlit](https://github.com/yourusername/cryptic-messenger-streamlit)
+Project Link: [https://github.com/Manish-Kumar24/Encryption-Decryption-App](https://github.com/Manish-Kumar24/Encryption-Decryption-App)
