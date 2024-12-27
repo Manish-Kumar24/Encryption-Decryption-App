@@ -1,2 +1,4 @@
 cryptography
-tkinter
+# tkinter
+streamlit
+pandas
